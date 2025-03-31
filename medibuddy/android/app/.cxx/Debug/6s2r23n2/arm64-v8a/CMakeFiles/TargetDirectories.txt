@@ -1,0 +1,2 @@
+/Users/nishadshirodkar/Documents/GitHub/JR-19-Invictus/medibuddy/android/app/.cxx/Debug/6s2r23n2/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/nishadshirodkar/Documents/GitHub/JR-19-Invictus/medibuddy/android/app/.cxx/Debug/6s2r23n2/arm64-v8a/CMakeFiles/rebuild_cache.dir
